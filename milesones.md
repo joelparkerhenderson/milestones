@@ -7,37 +7,37 @@ Credit: http://www.brighthubpm.com/project-planning/68429-project-planning-typic
 <nav>
 <b>Contents:</b>
 <ul>
-  <li><a href="introduction">Introduction</a><li>
+  <li><a href="introduction">Introduction</a></li>
   <ul>
-    <li><a href="how-to-classify-typical-milestones">How to Classify Typical Milestones</a><li>
-    <li><a href="phase-transitions">Phase transitions</a><li>
-    <li><a href="rates-of-completion">Rates of Completion</a><li>
-    <li><a href="performance-recognition">Performance recognition</a><li>
-    <li><a href="completion-of-a-deliverable">Completion of a deliverable</a><li>
-    <li><a href="achievement-of-an-outcome">Achievement of an outcome</a><li>
+    <li><a href="how-to-classify-typical-milestones">How to Classify Typical Milestones</a></li>
+    <li><a href="phase-transitions">Phase transitions</a></li>
+    <li><a href="rates-of-completion">Rates of Completion</a></li>
+    <li><a href="performance-recognition">Performance recognition</a></li>
+    <li><a href="completion-of-a-deliverable">Completion of a deliverable</a></li>
+    <li><a href="achievement-of-an-outcome">Achievement of an outcome</a></li>
   </ul>
-  <li><a href="major-milestones-for-software-projects">Major Milestones for Software Projects</a><li>
+  <li><a href="major-milestones-for-software-projects">Major Milestones for Software Projects</a></li>
   <ul>
-    <li><a href="concept-approval">Concept approval</a><li>
-    <li><a href="requirements-review">Requirements review</a><li>
-    <li><a href="preliminary-design-review">Preliminary design review</a><li>
-    <li><a href="critical-design-review">Critical design review</a><li>
-    <li><a href="test-plan-review">Test plan review</a><li>
-    <li><a href="test-readiness-review">Test readiness review</a><li>
-    <li><a href="system-test-review">System test review</a><li>
-    <li><a href="operational-readiness-review">Operational readiness review</a><li>
-    <li><a href="product-operational">Product operational</a><li>
+    <li><a href="concept-approval">Concept approval</a></li>
+    <li><a href="requirements-review">Requirements review</a></li>
+    <li><a href="preliminary-design-review">Preliminary design review</a></li>
+    <li><a href="critical-design-review">Critical design review</a></li>
+    <li><a href="test-plan-review">Test plan review</a></li>
+    <li><a href="test-readiness-review">Test readiness review</a></li>
+    <li><a href="system-test-review">System test review</a></li>
+    <li><a href="operational-readiness-review">Operational readiness review</a></li>
+    <li><a href="product-operational">Product operational</a></li>
   </ul>
-  <li><a href="minor-milestones-for-a-software-project">Minor Milestones for a Software Project</a><li>
+  <li><a href="minor-milestones-for-a-software-project">Minor Milestones for a Software Project</a></li>
   <ul>
-    <li><a href="document-outline-complete">Document outline complete</a><li>
-    <li><a href="document-complete">Document complete</a><li>
-    <li><a href="technical-investigation-complete">Technical investigation complete</a><li>
-    <li><a href="compile-complete">Compile complete</a><li>
-    <li><a href="software-module-complete">Software module complete</a><li>
-    <li><a href="software-product-build-complete">Software product build complete</a><li>
-    <li><a href="test-case-complete">Test case complete</a><li>
-    <li><a href="bug-fix-complete">Bug fix complete</a><li>
+    <li><a href="document-outline-complete">Document outline complete</a></li>
+    <li><a href="document-complete">Document complete</a></li>
+    <li><a href="technical-investigation-complete">Technical investigation complete</a></li>
+    <li><a href="compile-complete">Compile complete</a></li>
+    <li><a href="software-module-complete">Software module complete</a></li>
+    <li><a href="software-product-build-complete">Software product build complete</a></li>
+    <li><a href="test-case-complete">Test case complete</a></li>
+    <li><a href="bug-fix-complete">Bug fix complete</a></li>
   </ul>
 </ul>
 </nav>
