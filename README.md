@@ -1,10 +1,9 @@
 # Milestones Ideas & Examples
 
-Project management milestones ideas and examples.
-
-Credit: http://www.brighthubpm.com/project-planning/68429-project-planning-typical-milestones/
+Project management milestones ideas and examples. Credit to [BrightHub](http://www.brighthubpm.com/project-planning/68429-project-planning-typical-milestones/).
 
 Contents:
+
 * [Introduction](#introduction)
   * [How to Classify Typical Milestones](#how-to-classify-typical-milestones)
   * [Phase transitions](#phase-transitions)
